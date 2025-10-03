@@ -9,6 +9,7 @@ https://img.shields.io/badge/GitHub-Open%2520Source-181717?style=for-the-badge&l
 https://img.shields.io/github/stars/programmerdrn/Get-Information
 https://img.shields.io/github/forks/programmerdrn/Get-Information
 https://img.shields.io/github/issues/programmerdrn/Get-Information
+https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 
 
 
