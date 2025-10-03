@@ -6,6 +6,10 @@ https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoCol
 https://img.shields.io/badge/Console%2520App-Terminal%2520Based-black?style=for-the-badge
 https://img.shields.io/badge/GitHub-Open%2520Source-181717?style=for-the-badge&logo=github
 
+https://img.shields.io/github/stars/programmerdrn/Get-Information
+https://img.shields.io/github/forks/programmerdrn/Get-Information
+https://img.shields.io/github/issues/programmerdrn/Get-Information
+
 
 
 ✨ ویژگی‌ها
